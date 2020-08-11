@@ -1,5 +1,3 @@
-# Maravitsas
-
 ## Backend Setup
     Edit the base variable in the .env file to show to the directory  
     that contains the documents_parses folder and the metadata.csv file.
